@@ -1,0 +1,2 @@
+# my-new-repo
+CONNECTING VSCODE TO GITHUB
